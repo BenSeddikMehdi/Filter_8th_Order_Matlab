@@ -13,7 +13,7 @@ The filter that I've designed is lowpass Butterworth filter with 21 KHz cutoff f
 Additionally, I influenced my inputSignal (sinusPulse) with an AWGN (Additive White Gaussian Noise) with an SNR of 12dB, and attack it in the input of the filter.
 
 
-In the end I plotted the output of the filter in the Frequency Domain using FFT (Fast Fourier Transform)and figure out how does the filter works in function with several SNR values and sinuPulse samples.
+In the end I plotted the output of the filter in the Frequency Domain using FFT (Fast Fourier Transform) and figure out how does the filter works in function with several SNR values and sinuPulse samples.
 
 By BENSEDDIK El Mehdi
 
