@@ -2,6 +2,7 @@
 Create a 8th order filter in Matlab and pass a noisy sinus pulse through it and see the result in Frequency Domain.
 
 inputSignal : is a sinus pulse with :\
+
                                       ** Frequency : 20 Khz\
                                       ** Amplitude : 1 V\
                                       ** Phase : 0 rad/s\
