@@ -1,7 +1,7 @@
 %% Butterworth Filter Design
 %% I-  Lowpass Butterworth Transfer Function
-% Design a 8th-order lowpass Butterworth filter with a cutoff frequency of 21 
-% KHz, which, for data sampled at 48 KHz, corresponds to  rad/sample. Plot its 
+% Design a 8th-order lowpass Butterworth filter with a cutoff frequency of 22 
+% KHz or other value, which, for data sampled at 48 KHz, corresponds to  rad/sample. Plot its 
 % magnitude and phase responses. Use it to filter a 128-sample of sinusPulse.
 
 clear 
