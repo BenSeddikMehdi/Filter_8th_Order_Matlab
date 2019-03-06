@@ -8,7 +8,7 @@ inputSignal : is a sinus pulse with :
                                       ** Phase : 0 rad/s
                                       ** samples : 128
 
-The filter that I've designed is lowpass Butterworth filter with 21 KHz cutoff frequency, wich, for data samples at 48 KHz, corresponds to rad/sample.
+The filter that I've designed is lowpass Butterworth filter with 22 KHz cutoff frequency, wich, for data samples at 48 KHz, corresponds to rad/sample.
 
 Additionally, I influenced my inputSignal (sinusPulse) with an AWGN (Additive White Gaussian Noise) with an SNR of 12dB, and attack it in the input of the filter.
 
